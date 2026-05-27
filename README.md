@@ -23,6 +23,6 @@
 
 ## 📫 Connect with Me
 - LinkedIn: [www.linkedin.com/in/your-link](https://www.linkedin.com/in/sowndarya-lakshmi-s-1869142a4/)
-- Email: sowndaryalakshmi04@gmail
+- Email: sowndaryalakshmi04@gmail.com
 
 ⭐ Always learning, building, and growing.
