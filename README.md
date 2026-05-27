@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋, I'm Sowndarya Lakshmi
 
-<!--
-**SowndaryaLakshmi04/SowndaryaLakshmi04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student  
+💻 Aspiring Full Stack Developer  
+🌱 Currently learning Java, Web Development & AI  
+🚀 Passionate about building real-world projects and improving my skills every day  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Java
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Basics of Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Interests
+- Full Stack Development
+- Artificial Intelligence
+- Problem Solving
+- Open Source Learning
+
+## 🏆 Certifications
+- Infosys Springboard Frontend Web Development
+- NPTEL Programming in Java
+
+## 📫 Connect with Me
+- LinkedIn: [www.linkedin.com/in/your-link](https://www.linkedin.com/in/sowndarya-lakshmi-s-1869142a4/)
+- Email: sowndaryalakshmi04@gmail
+
+⭐ Always learning, building, and growing.
