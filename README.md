@@ -24,7 +24,7 @@
 - NPTEL Programming in Java
 
 ## 📫 Connect with Me
-- LinkedIn: [https://www.linkedin.com/in/sowndarya-lakshmi-s-1869142a4/]
+- LinkedIn: [www.linkedin.com/in/sowndaryalakshmi04]
 - Email: sowndaryalakshmi04@gmail.com
 
 ⭐ Always learning, building, and growing.
