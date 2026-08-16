@@ -8,6 +8,8 @@
 ## 🔧 Skills
 - Java
 - HTML, CSS, JavaScript
+- SQL -> MySQL, PostgreSQL, OracleSQL
+- XML, TypeScript, Ant Design
 - Git & GitHub
 - Basics of Machine Learning
 
