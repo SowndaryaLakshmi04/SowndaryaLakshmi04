@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sowndarya Lakshmi
+# Hi👋, I'm Sowndarya Lakshmi S
 
 🎓 Computer Science Engineering Student  
 💻 Aspiring Full Stack Developer  
@@ -6,12 +6,12 @@
 🚀 Passionate about building real-world projects and improving my skills every day  
 
 ## 🔧 Skills
-- Java
-- HTML, CSS, JavaScript
+- Java, Python
+- HTML, CSS, JavaScript, React.js
+- Framework -> Spring Boot
 - SQL -> MySQL, PostgreSQL, OracleSQL
 - XML, TypeScript, Ant Design
 - Git & GitHub
-- Basics of Machine Learning
 
 ## 📚 Interests
 - Full Stack Development
